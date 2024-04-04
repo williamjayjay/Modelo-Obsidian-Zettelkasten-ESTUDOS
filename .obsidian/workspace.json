@@ -10,16 +10,27 @@
           {
             "id": "2246eb3ed1937150",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkaten/Estudos Javascript/Aula01/FileA01 - introduçãoexemplo.md",
+                "file": "Zettelkaten/Curso Teste com VSCODE/Aula 01 - Sobre VSCODE/index - Aula01 - Meu Guia de Instalação do Visual Studio Code.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "d736e276af015d3e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkaten/Estudos Javascript/Aula01/FileA01 - introduçãoexemplo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +112,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkaten/Estudos Javascript/Aula01/FileA01 - introduçãoexemplo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +133,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Zettelkaten/Estudos Javascript/Aula01/FileA01 - introduçãoexemplo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -138,16 +145,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "2246eb3ed1937150",
+  "active": "d736e276af015d3e",
   "lastOpenFiles": [
+    "2024-04-04.md",
+    "Datas soltas",
+    "Anotações soltas",
+    "arquivos_pastas_ignoradas_",
+    "Sem título.canvas",
+    "Zettelkaten/Curso Teste com VSCODE/Aula 02 - Sobre VSCODE/index - Aula02 - Meu Guia de Instalação do Visual Studio Code.md",
+    "Zettelkaten/Curso Teste com VSCODE/Aula 01 - Sobre VSCODE/index - Aula01 - Meu Guia de Instalação do Visual Studio Code.md",
+    "Zettelkaten/Curso Teste com VSCODE/Aula 01 - Sobre VSCODE/IMGs A01/Pasted image 20240404121210.png",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 02 - Example Course - MODEL/index - Aula02 - TITLE - MODEL.md",
+    "Zettelkaten/Curso Teste com VSCODE/Aula 01 - Sobre VSCODE/IMGs A01",
+    "Zettelkaten/Curso Teste com VSCODE/Aula 01 - Sobre VSCODE",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 01 - Example Course - MODEL/index - Aula01 - TITLE - MODEL.md",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 02 - Example Course - MODEL/IMGs A02",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 02 - Example Course - MODEL",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 01 - Example Course - MODEL (copy 1)/IMG 01",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 01 - Example Course - MODEL (copy 1)/index - Aula01 - TITLE - MODEL.md",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 01 - Example Course - MODEL (copy 1)",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 01 - Example Course - MODEL/IMG 01/Pasted image 20240404121210.png",
+    "Zettelkaten/Example Course Folder - MODEL/Aula 01 - Example Course - MODEL/IMGs A01",
+    "Zettelkaten/Curso Teste com VSCODE (copy 1)/Aula 01 - Sobre VSCODE/IMG 01/Pasted image 20240404121210.png",
+    "Zettelkaten/Curso Teste com VSCODE (copy 1)/Aula 01 - Sobre VSCODE/index - Aula01 - Meu Guia de Instalação do Visual Studio Code.md",
+    "Zettelkaten/Curso Teste com VSCODE/Aula 01 - Sobre VSCODE (copy 1)/IMG 01/Pasted image 20240404121210.png",
+    "Zettelkaten/Curso Teste com VSCODE/Aula 01 - Sobre VSCODE (copy 1)/index - Aula01 - Meu Guia de Instalação do Visual Studio Code.md",
+    "Pasted image 20240404121206.png",
+    "link_para_imagem.md",
+    "Zettelkaten/Curso Teste com VSCODE/00 - Configurações example/Parte 00 - Configuração example.md",
+    "Zettelkaten/Curso Teste com VSCODE/00 - Configurações example/IMG 00/Pasted image 20240325163914.png",
+    "Zettelkaten/Curso Teste/00 - Configurações example/IMG 00/Pasted image 20240326002351.png",
     "Zettelkaten/Estudos Javascript/Aula02/FileA02 - explicação vscode.md",
     "Zettelkaten/Estudos Javascript/Aula01/FileA01 - introduçãoexemplo.md",
     "Zettelkaten/Estudos Javascript/Aula01/Imagem-A01/Pasted image 20240327202445.png",
@@ -158,22 +193,8 @@
     "filea01.md",
     "Zettelkaten/Estudos Javascript/Example-Copia (copy 1)/Imagem-A-EXAMPLE/Pasted image 20240327202445.png",
     "Zettelkaten/Estudos Javascript/Example-Copia (copy 2)/Imagem-EXAMPLE/Pasted image 20240327202445.png",
-    "Zettelkaten/Estudos Javascript/Aula02/Imagem-A02/Pasted image 20240327202445.png",
-    "Zettelkaten/Estudos Javascript/Example-Copia (copy 2)/Imagem-EXAMPLE",
-    "Zettelkaten/Estudos Javascript/Example-Copia (copy 2)",
-    "Zettelkaten/Estudos Javascript/Example-Copia (copy 1)/Imagem-A-EXAMPLE",
-    "Zettelkaten/Estudos Javascript/Example-Copia (copy 1)",
-    "Zettelkaten/Estudos Javascript/Aula02/Imagem-A02",
-    "Zettelkaten/Estudos Javascript/Aula02",
-    "Zettelkaten/Estudos Javascript/Aula01 (copy 3)/Imagem-A01/Pasted image 20240327202445.png",
-    "Zettelkaten/Estudos Javascript/Aula01 (copy 3)/Imagem-A01",
     "Zettelkaten/Estudos Javascript/Aula01 (copy 3)/FileA01 - introduçãoexemplo.md",
-    "Zettelkaten/Estudos Javascript/Aula01 (copy 3)",
-    "Zettelkaten/Estudos Javascript/Aula01 (copy 2)/Imagem-A01/Pasted image 20240327202445.png",
-    "Zettelkaten/Estudos Javascript/Aula01 (copy 2)/Imagem-A01",
     "Zettelkaten/Estudos Javascript/Aula01 (copy 2)/FileA01 - introduçãoexemplo.md",
-    "Zettelkaten/Estudos Javascript/Aula01 (copy 2)",
-    "Zettelkaten/Estudos Javascript/Aula01 (copy 1)/Imagem-A01/Pasted image 20240327202445.png",
     "Zettelkaten/Estudos Javascript/Aula01 (copy 1)/FileA01 - introduçãoexemplo.md",
     "Zettelkaten/Estudos Javascript/Untitled.md"
   ]
